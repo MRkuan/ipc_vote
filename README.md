@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ```
   python3 main.py 
 ```
-即可生成**result.md**文件
+即可生成**result.txt**文件
 即可出现应用
 
 ## FAQ
