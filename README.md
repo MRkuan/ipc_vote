@@ -1,9 +1,9 @@
-# NCRE4_Template
+# IPC_VOTE
 
 ## 1.概述
 生成问卷星 IPC 模板
 
-使用 python 和 jinjia2 模块生成 markdown 模板，供问卷星使用
+使用 python 和 jinjia2 模块生成 markdown 模板，供[问卷星](https://www.wjx.cn/jq/50907196.aspx)使用
 
 生成如下的格式，方便使用
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
   python main.py 
 ```
-即可生成**result.md**文件
+即可生成**result.txt**文件
 
 - 2.MAC 和 LINUX用户
   
